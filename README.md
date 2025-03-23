@@ -1,6 +1,4 @@
-Certainly! Below is a simple yet detailed README template that you can use for your **Fraud Detection Dashboard** project on GitHub. This README includes an introduction, installation instructions, and more.
 
----
 
 # Fraud Detection Dashboard
 
